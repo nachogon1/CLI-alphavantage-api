@@ -2,6 +2,7 @@
 In this project, I chose Alpha Vantage ( financial market data ) to fetch data from.
 This project contains a class to pull data from the Alpha Vantage APIs and a CLI tool to 
 facilitate and document the usage of Alpha Vantage APIs.
+This project was developed for a code assigment.
 
 ## How to set up
 You need to have installed python3.8 in your computer. Then install poetry.
